@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 import java.io.*;
 import java.util.*;
 
-public class EVM {
+public class Electronic_Voting_Machine {
     static final String STUDENTS_FILE = "students.txt"; // students data txt file
     static final String VOTING_DATA_FILE = "voting_data.txt";
     static final String SELECTOR_NAME = "Md Abdul Based"; // Selector's name
